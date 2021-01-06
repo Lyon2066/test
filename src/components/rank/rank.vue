@@ -1,6 +1,6 @@
 <template>
   <div class="rank">
-    <div>Rankcsasda888888888fasdf</div>
+    <div>Rank-----这个一个悲伤的故事</div>
     <test></test>
   </div>
 </template>
