@@ -1,6 +1,6 @@
 <template>
   <div class="rank">
-    <div>Rank-----这个一个悲伤的故事</div>
+    <div>Rank-----这个一个悲伤的故事999999999999</div>
     <test></test>
   </div>
 </template>
